@@ -24,7 +24,7 @@ public class Main {
         System.out.println("--------------------------------------------");
         System.out.println("Available Seats in Pk-789 for 10/11/2017 are: " + proxy.getAvailableSeats("PK-789", "10/11/2017"));
         System.out.println("Price of a Seat for Lahore to Karachi is: " + proxy.getSeatPrice("Lahore", "Karachi") + "$");        
-        System.out.println("--------------------------------------------");        
+        System.out.println("-------------------------------------------");        
     }
     
 }
