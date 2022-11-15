@@ -1,11 +1,7 @@
 # Flight Booking System for Airlines (Java Web Application) ✈️ 
 
 
-<a href="https://github.com/harismuneer"><img alt="views" title="Github views" src="https://komarev.com/ghpvc/?username=harismuneer&style=flat-square" width="125"/></a>
-[![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](#)
-[![GitHub Forks](https://img.shields.io/github/forks/harismuneer/Flight-Booking-System-JavaServlets_App.svg?style=social&label=Fork&maxAge=2592000)](https://www.github.com/harismuneer/Flight-Booking-System-JavaServlets_App/fork)
-[![GitHub Issues](https://img.shields.io/github/issues/harismuneer/Flight-Booking-System-JavaServlets_App.svg?style=flat&label=Issues&maxAge=2592000)](https://www.github.com/harismuneer/Flight-Booking-System-JavaServlets_App/issues)
-[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat&label=Contributions&colorA=red&colorB=black	)](#)
+
 
 
 A **fully responsive** web-based Flight Booking System for Turkish Airlines based on the **Model View Controller (MVC) Architecture** made using **Java Servlets**, **Java Server Pages (JSPs)**. Moreover authentication and authorization for users is implemented using Tomcat Roles. The web-application is also secured against **SQL Injection** and **Cross-Site Scripting** attacks.
@@ -54,26 +50,26 @@ the pay button consider the transaction done and mark the seat sold.
 
 #### Home Pages
 <p align="middle">
-   <img src="../master/Images/main.png" width="400"/>
-   <img src="../master/Images/main2.png" width="400"/>
+   <img src="../main/Images/main.png" width="400"/>
+   <img src="../main/Images/main2.png" width="400"/>
 </p>
 
 #### Login Page and Book Flight
 <p align="middle">
-   <img src="../master/Images/login.png" width="400"/>
-   <img src="../master/Images/book.png" width="400"/>
+   <img src="../main/Images/login.png" width="400"/>
+   <img src="../main/Images/book.png" width="400"/>
 </p>
 
 #### Current Bookings and Itinerary
 <p align="middle">
-   <img src="../master/Images/current.png" width="400"/>
-   <img src="../master/Images/itenary.png" width="400"/>
+   <img src="../main/Images/current.png" width="400"/>
+   <img src="../main/Images/itenary.png" width="400"/>
 </p>
 
 #### Seat Features and Approval
 <p align="middle">
-   <img src="../master/Images/features.png" width="400"/>
-   <img src="../master/Images/approve.png" width="400"/>
+   <img src="../main/Images/features.png" width="400"/>
+   <img src="../main/Images/approve.png" width="400"/>
 </p>
 
 
